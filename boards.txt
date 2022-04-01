@@ -166,7 +166,7 @@ karakuri-v1.serial.disableRTS=true
 
 karakuri-v1.build.mcu=esp32
 karakuri-v1.build.core=esp32
-karakuri-v1.build.variant=doitESP32devkitV1
+karakuri-v1.build.variant=KarakuriV1
 karakuri-v1.build.board=ESP32_DEV
 
 karakuri-v1.build.f_cpu=240000000L
