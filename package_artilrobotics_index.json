@@ -20,6 +20,7 @@
             "checksum": "SHA-256:bdf7f45eeace0e2b809b684119f3cc7f8ad14cee33ea96d307b64952fb1172fa",
             "size": "50999476",
             "boards": [
+              {"name": "ESP32 Dev Module"},
               {"name": "Karakuri V1"}
             ],
             "toolsDependencies": [
