@@ -9,7 +9,7 @@
         "platforms": [
           {
             "name": "AR Boards",
-            "architecture": "esp32",
+            "architecture": "AR Boards",
             "version": "1.0.0",
             "category": "Contributed",
             "help": {
