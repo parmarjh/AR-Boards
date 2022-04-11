@@ -1,0 +1,70 @@
+menu.UploadSpeed=Upload Speed
+menu.CPUFreq=CPU Frequency
+menu.FlashFreq=Flash Frequency
+menu.FlashMode=Flash Mode
+menu.FlashSize=Flash Size
+menu.PartitionScheme=Partition Scheme
+menu.DebugLevel=Core Debug Level
+menu.PSRAM=PSRAM
+menu.Revision=Board Revision
+menu.LORAWAN_REGION=LoRaWan Region
+menu.LoRaWanDebugLevel=LoRaWan Debug Level
+
+##############################################################
+### DO NOT PUT BOARDS ABOVE THE OFFICIAL ESPRESSIF BOARDS! ###
+##############################################################
+
+KarakuriV1.name=Karakuri V1
+
+KarakuriV1.upload.tool=esptool_py
+KarakuriV1.upload.maximum_size=1310720
+KarakuriV1.upload.maximum_data_size=327680
+KarakuriV1.upload.wait_for_upload_port=true
+
+KarakuriV1.serial.disableDTR=true
+KarakuriV1.serial.disableRTS=true
+
+KarakuriV1.build.mcu=esp32
+KarakuriV1.build.core=esp32
+KarakuriV1.build.variant=KarakuriV1
+KarakuriV1.build.board=ESP32_DEV
+
+KarakuriV1.build.f_cpu=240000000L
+KarakuriV1.build.flash_mode=dio
+KarakuriV1.build.flash_size=4MB
+KarakuriV1.build.boot=dio
+KarakuriV1.build.partitions=default
+KarakuriV1.defines=
+
+KarakuriV1.menu.FlashFreq.80=80MHz
+KarakuriV1.menu.FlashFreq.80.build.flash_freq=80m
+KarakuriV1.menu.FlashFreq.40=40MHz
+KarakuriV1.menu.FlashFreq.40.build.flash_freq=40m
+
+KarakuriV1.menu.UploadSpeed.921600=921600
+KarakuriV1.menu.UploadSpeed.921600.upload.speed=921600
+KarakuriV1.menu.UploadSpeed.115200=115200
+KarakuriV1.menu.UploadSpeed.115200.upload.speed=115200
+KarakuriV1.menu.UploadSpeed.256000.windows=256000
+KarakuriV1.menu.UploadSpeed.256000.upload.speed=256000
+KarakuriV1.menu.UploadSpeed.230400.windows.upload.speed=256000
+KarakuriV1.menu.UploadSpeed.230400=230400
+KarakuriV1.menu.UploadSpeed.230400.upload.speed=230400
+KarakuriV1.menu.UploadSpeed.460800.linux=460800
+KarakuriV1.menu.UploadSpeed.460800.macosx=460800
+KarakuriV1.menu.UploadSpeed.460800.upload.speed=460800
+KarakuriV1.menu.UploadSpeed.512000.windows=512000
+KarakuriV1.menu.UploadSpeed.512000.upload.speed=512000
+
+KarakuriV1.menu.DebugLevel.none=None
+KarakuriV1.menu.DebugLevel.none.build.code_debug=0
+KarakuriV1.menu.DebugLevel.error=Error
+KarakuriV1.menu.DebugLevel.error.build.code_debug=1
+KarakuriV1.menu.DebugLevel.warn=Warn
+KarakuriV1.menu.DebugLevel.warn.build.code_debug=2
+KarakuriV1.menu.DebugLevel.info=Info
+KarakuriV1.menu.DebugLevel.info.build.code_debug=3
+KarakuriV1.menu.DebugLevel.debug=Debug
+KarakuriV1.menu.DebugLevel.debug.build.code_debug=4
+
+##############################################################
