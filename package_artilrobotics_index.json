@@ -9,7 +9,7 @@
         "platforms": [
           {
             "name": "Artil Boards",
-            "architecture": "AR_Boards",
+            "architecture": "Artil_Boards",
             "version": "1.0.0",
             "category": "Contributed",
             "help": {
