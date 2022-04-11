@@ -9,7 +9,7 @@
         "platforms": [
           {
             "name": "AR Boards",
-            "architecture": "AR Boards",
+            "architecture": "AR_Boards",
             "version": "1.0.0",
             "category": "Contributed",
             "help": {
