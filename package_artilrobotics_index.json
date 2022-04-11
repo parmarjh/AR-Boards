@@ -17,7 +17,7 @@
             },
             "url": "https://github.com/ArtilRobotics/AR-Boards/releases/download/v1.0.0/AR-Boards-1.0.0.zip",
             "archiveFileName": "AR-Boards-1.0.0.zip",
-            "checksum": "SHA-256:cf0b0b6eedbd630c35c3286f0e03fa99690fc5e026671c0c7ba0eaae76aa5ca9",
+            "checksum": "SHA-256:0d4cbd659faf19a9b28bf2ec118e9ff5f20ded6c40322c18aa5c2d5c2e11c2e3",
             "size": "50420239",
             "boards": [
               {"name": "Karakuri V1"}
