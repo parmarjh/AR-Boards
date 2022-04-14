@@ -8,7 +8,11 @@ Latest Stable Release  [![Release Version](https://img.shields.io/github/release
 - [English](#englis)
     - [Installation](#installation)
     - [Boards](#boards)
+    - [Librarys](#boards)
 - [Español](#español)
+    - [Instalacion](#instalacion)
+    - [Tarjetas](#tarjetas)
+    - [Librerias](#librerias)
 
 ### English
 
@@ -24,7 +28,15 @@ https://raw.githubusercontent.com/ArtilRobotics/AR-Boards/gh-pages/package_artil
 
 ![Instalacion 2°](https://github.com/ArtilRobotics/AR-Boards/blob/main/images/Instalacion%202°.gif)
 
-## Boards
+### Boards
+
+### Librarys
 
 ### Español
+
+### Instalacion
+
+### Tarjetas
+
+### Librerias
 
