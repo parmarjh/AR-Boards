@@ -14,7 +14,7 @@ Latest Stable Release  [![Release Version](https://img.shields.io/github/release
     - [Tarjetas](#tarjetas)
     - [Librerias](#librerias)
 
-### English
+## English
 
 ### Installation
 1. Inside the Arduino IDE, in the "File" tab, look for the preferences option and inside the window, paste the link:
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ArtilRobotics/AR-Boards/gh-pages/package_artil
 
 ### Librarys
 
-### Español
+## Español
 
 ### Instalacion
 1. Dentro de la IDE de Arduino, dirigirse a la pestaña **Archivo** y seleccionar la opción **Preferencias**. Dentro de la ventana que se abre, 
