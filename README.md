@@ -1,7 +1,7 @@
-# AR-Boards
+# Artil Boards
 ## Artil Robortics software and drivers
 ### Installation
-
+In the arduino IDE, copy the following link and paste in the preferences section
 ```
 https://raw.githubusercontent.com/ArtilRobotics/AR-Boards/gh-pages/package_artilrobotics_index.json
 ```
