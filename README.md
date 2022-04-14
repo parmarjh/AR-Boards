@@ -4,6 +4,12 @@
 Latest Stable Release  [![Release Version](https://img.shields.io/github/release/ArtilRobotics/AR-Boards)](https://github.com/ArtilRobotics/AR-Boards/releases/latest/) [![Release Date](https://img.shields.io/github/release-date/ArtilRobotics/AR-Boards)](https://github.com/ArtilRobotics/AR-Boards/releases/latest/) [![Release Download](https://img.shields.io/github/downloads/ArtilRobotics/AR-Boards/total)](https://github.com/ArtilRobotics/AR-Boards/releases/latest/)    
 - Software for Karakuvi V1 board
 
+### Language/Lenguaje
+- [English](#englis)
+- [Español](#español)
+
+### English
+
 ### Installation
 1. Inside the Arduino IDE, in the "File" tab, look for the preferences option and inside the window, paste the link:
 ```
@@ -16,8 +22,5 @@ https://raw.githubusercontent.com/ArtilRobotics/AR-Boards/gh-pages/package_artil
 
 ![Instalacion 2°](https://github.com/ArtilRobotics/AR-Boards/blob/main/images/Instalacion%202°.gif)
 
-
-https://img.shields.io/github/downloads/ArtilRobotics/AR-Boards/total
-
-https://img.shields.io/github/release-date/ArtilRobotics/AR-Boards
+### Español
 
