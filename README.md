@@ -2,7 +2,7 @@
 ## Artil Robortics software and drivers
 ### Development Status
 Latest Stable Release  [![Release Version](https://img.shields.io/github/release/ArtilRobotics/AR-Boards)](https://github.com/ArtilRobotics/AR-Boards/releases/latest/) [![Release Date](https://img.shields.io/github/release-date/ArtilRobotics/AR-Boards)](https://github.com/ArtilRobotics/AR-Boards/releases/latest/) [![Release Download](https://img.shields.io/github/downloads/ArtilRobotics/AR-Boards/total)](https://github.com/ArtilRobotics/AR-Boards/releases/latest/)    
-Software for Karakuvi V1 board
+- Software for Karakuvi V1 board
 
 ### Installation
 1. Inside the Arduino IDE, in the "File" tab, look for the preferences option and inside the window, paste the link:
