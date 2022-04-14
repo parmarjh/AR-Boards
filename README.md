@@ -37,7 +37,11 @@ https://raw.githubusercontent.com/ArtilRobotics/AR-Boards/gh-pages/package_artil
 ### Instalacion
 1. Dentro de la IDE de Arduino, dirigirse a la pestaña **Archivo** y seleccionar la opción **Preferencias**. Dentro de la ventana, pegar el link que se presenta a continuación. Una vez pegado el link cerrar la ventana.
 
+![Instalacion 1°](https://github.com/ArtilRobotics/AR-Boards/blob/main/images/Intalacion%201°.gif)
+
 2. En la pestaña **Herramientas**, seleccionar la opción **Gestor de Tarjetas** dentro del apartado **Placa**. Ya en la ventana, escribir en el buscador `Artil Boards` e instarlarla.
+
+![Instalacion 2°](https://github.com/ArtilRobotics/AR-Boards/blob/main/images/Instalacion%202°.gif)
 ### Tarjetas
 
 ### Librerias
