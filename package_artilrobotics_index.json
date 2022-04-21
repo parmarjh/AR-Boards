@@ -9,7 +9,7 @@
         "platforms": [
           {
             "name": "Artil Boards",
-            "architecture": "Artil_Boards",
+            "architecture": "esp32",
             "version": "1.0.0",
             "category": "Contributed",
             "help": {
