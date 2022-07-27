@@ -10,6 +10,39 @@
           {
             "name": "Artil Boards",
             "architecture": "esp32",
+            "version": "1.0.0",
+            "category": "Contributed",
+            "help": {
+              "online": "https://github.com/ArtilRobotics/AR-Boards"
+            },
+            "url": "https://github.com/ArtilRobotics/AR-Boards/releases/download/v1.0.0/AR-Boards-1.0.0.zip",
+            "archiveFileName": "AR-Boards-1.0.0.zip",
+            "checksum": "SHA-256:26dbd8ea913051d972b41e66d85914a86e03c16a30e950a883aea0a93f40b175",
+            "size": "50420244",
+            "boards": [
+              {"name": "Karakuri V1"}
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "artilrobotics",
+                "name": "xtensa-esp32-elf-gcc",
+                "version": "1.22.0-97-gc752ad5-5.2.0"
+              },
+              {
+                "packager": "artilrobotics",
+                "name": "esptool_py",
+                "version": "3.0.0"
+              },
+              {
+                "packager": "artilrobotics",
+                "name": "mkspiffs",
+                "version": "0.2.3"
+              }
+            ]
+          },
+          {
+            "name": "Artil Boards",
+            "architecture": "esp32",
             "version": "1.0.1",
             "category": "Contributed",
             "help": {
@@ -17,7 +50,7 @@
             },
             "url": "https://github.com/ArtilRobotics/AR-Boards/releases/download/v1.0.1/AR-Boards-1.0.1.zip",
             "archiveFileName": "AR-Boards-1.0.1.zip",
-            "checksum": "SHA-256:26dbd8ea913051d972b41e66d85914a86e03c16a30e950a883aea0a93f40b175",
+            "checksum": "SHA-256:827BD747D5CFBE4FE7D0756D234DCB59EEFD6768B752135A7196BA6290451081",
             "size": "53191811",
             "boards": [
               {"name": "Karakuri V1"}
