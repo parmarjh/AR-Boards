@@ -10,15 +10,15 @@
           {
             "name": "Artil Boards",
             "architecture": "esp32",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "category": "Contributed",
             "help": {
               "online": "https://github.com/ArtilRobotics/AR-Boards"
             },
-            "url": "https://github.com/ArtilRobotics/AR-Boards/releases/download/v1.0.0/AR-Boards-1.0.0.zip",
-            "archiveFileName": "AR-Boards-1.0.0.zip",
+            "url": "https://github.com/ArtilRobotics/AR-Boards/releases/download/v1.0.1/AR-Boards-1.0.1.zip",
+            "archiveFileName": "AR-Boards-1.0.1.zip",
             "checksum": "SHA-256:26dbd8ea913051d972b41e66d85914a86e03c16a30e950a883aea0a93f40b175",
-            "size": "50420244",
+            "size": "53191811",
             "boards": [
               {"name": "Karakuri V1"}
             ],
